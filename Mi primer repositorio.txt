@@ -2,6 +2,7 @@ hola mundo
 victor saucedo perez
 02 de febrero de 2023
 27 de febrero de 2023 ya realice mi primer commid y repocitorio local, estoy editando y preparandome para realizar un repocitorio en la nube.
+modiqficado hoy 03/03/2023
 
 
 
