@@ -1,3 +1,29 @@
 hola mundo
 victor saucedo perez
 02 de febrero de 2023
+27 de febrero de 2023 ya realice mi primer commid y repocitorio local, estoy editando y preparandome para realizar un repocitorio en la nube.
+
+
+
+28 de febrero 2023
+modulo 3 variables y tipos de datos
+tipos de datos
+
+Strings: representa datos textuales (cadenas de caracteres).
+
+Números: permite representar y manipular valores numeréricos
+como <<35>> o <<-9.25>>.
+
+Booleanos: representa un valor lógico y puede tener dos valores,
+ya sean true o falce.
+
+Undefined: representa una variable que no ha sido declarada o a
+la cual no se le ha asignado un valor.
+
+Null: representa la ausencia intencional de cualquier valor, un 
+valor nulo o <<vacio>>.
+
+
+
+
+
