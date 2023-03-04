@@ -24,6 +24,9 @@ la cual no se le ha asignado un valor.
 Null: representa la ausencia intencional de cualquier valor, un 
 valor nulo o <<vacio>>.
 
+borrado del escritorio y se clono otra vez
+provemos subir un commit nuevo.
+
 
 
 
